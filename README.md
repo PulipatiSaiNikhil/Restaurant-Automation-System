@@ -16,3 +16,4 @@ the quantity and price is entered. If sufficient cash balance is available, the 
 immediately against invoice. Monthly sales receipt and expenses data should be generated whenever the
 manger would request to see them. The computer should be able to print a menu card containing the menu
 items and their prices.
+
