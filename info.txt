@@ -1,0 +1,15 @@
+sales clerk
+username:clerk
+password:clerk
+
+manager
+username:manager
+password:manager
+
+If you want to add other clerks or managers check for "loginActionPerformed" function in "Login.java" and add your customized username and password by replicating the if-else statements in the function.
+
+Connect the database using MAMP Pro or Xampp and then run the code in Apache Netbeans IDE 13
+import the sql file to Xampp or MAMP Pro
+
+When you run the project for the first time it shows some .jar file are missing and fix those by uploading .jar files from ".jar files" folder.
+
