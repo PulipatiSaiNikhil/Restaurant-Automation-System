@@ -18,4 +18,4 @@ immediately against invoice. Monthly sales receipt and expenses data should be g
 manger would request to see them. The computer should be able to print a menu card containing the menu
 items and their prices.
 
-For more information refer info.txt file in the repository
+For more information refer **info.txt** file in the repository
