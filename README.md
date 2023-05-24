@@ -19,3 +19,5 @@ manger would request to see them. The computer should be able to print a menu ca
 items and their prices.
 
 For detailed information refer **RAS presentation.pptx,RAS documentation.pdf,info.txt** file in the repository
+
+Tech Stack: Java,MySQL
