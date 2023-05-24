@@ -20,4 +20,4 @@ items and their prices.
 
 For detailed information refer **RAS presentation.pptx,RAS documentation.pdf,info.txt** file in the repository
 
-Tech Stack: Java,MySQL
+Techstack: Java,MySQL
